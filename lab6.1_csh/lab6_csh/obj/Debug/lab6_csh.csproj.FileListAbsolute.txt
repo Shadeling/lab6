@@ -1,0 +1,6 @@
+H:\C# лабы\lab6_csh\lab6_csh\bin\Debug\lab6_csh.exe.config
+H:\C# лабы\lab6_csh\lab6_csh\bin\Debug\lab6_csh.exe
+H:\C# лабы\lab6_csh\lab6_csh\bin\Debug\lab6_csh.pdb
+H:\C# лабы\lab6_csh\lab6_csh\obj\Debug\lab6_csh.csprojResolveAssemblyReference.cache
+H:\C# лабы\lab6_csh\lab6_csh\obj\Debug\lab6_csh.exe
+H:\C# лабы\lab6_csh\lab6_csh\obj\Debug\lab6_csh.pdb
